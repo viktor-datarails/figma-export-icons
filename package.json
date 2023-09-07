@@ -1,0 +1,28 @@
+{
+  "name": "figma-export-icons",
+  "version": "0.0.1",
+  "description": "figma-export-icon test",
+  "keywords": [
+    "datarails",
+    "icons"
+  ],
+  "scripts": {
+
+  },
+  "author": "Sergey Spivakov",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viktor-datarails/figma-export-icons"
+  },
+  "license": "",
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "https://github.com/viktor-datarails/figma-export-icons",
+  "whitelistedNonPeerDependencies": [],
+  "sideEffects": false
+}
