@@ -7,7 +7,7 @@
     "icons"
   ],
   "scripts": {
-
+    "font": "node convert_to_font"
   },
   "author": "Sergey Spivakov",
   "repository": {
@@ -16,8 +16,9 @@
   },
   "license": "",
   "dependencies": {
-  },
-  "devDependencies": {
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7",
+    "svgtofont": "^4.0.0"
   },
   "bugs": {
     "url": ""
